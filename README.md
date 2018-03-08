@@ -8,4 +8,4 @@ Debugging this code was challenging, but not impossible. One particular example 
 
 Regardless of the whitespace, or malformed characters that are found, the output is consistent across all .txt files that are passed. Therefore, the client's response would be positive as they would be using a project that is fully functional and easy to understand.
 
-In the end, I achieved a final grade of B+ on this project, and an A in the course overall. More importantly, the project helped me improve my debugging skills and think about problemms in ways I didn't think of them before.
+In the end, I achieved a final grade of B+ on this project, and an A in the course overall. More importantly, the project helped me improve my debugging skills and think about problems in ways I didn't think of them before.
